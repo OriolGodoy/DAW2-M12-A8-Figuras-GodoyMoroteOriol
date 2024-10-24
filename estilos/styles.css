@@ -1,0 +1,111 @@
+        html {
+            font-family: "Quicksand", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: normal;
+        }
+        
+        .imgTriangulo {
+            width: 160px;
+            margin-left: 20px;
+        }
+        
+        .imgRectangulo {
+            width: 150px;
+            margin-left: 30px;
+            margin-top: 40px;
+            padding-bottom: 10px;
+        }
+        
+        .imgCirculo {
+            margin-top: 17px;
+            width: 120px;
+            margin-left: 40px;
+        }
+        
+        .imgCuadrado {
+            margin-top: 17px;
+            width: 120px;
+            margin-left: 40px;
+        }
+        
+        .titulo {
+            font-size: 60px;
+            margin-left: 400px;
+        }
+        
+        .card {
+            box-shadow: 8px 8px 5px rgba(0, 0, 0, 0.226);
+            margin-left: 100px;
+            width: 200px;
+            height: 250px;
+            background-color: rgb(250, 250, 250);
+            margin-top: 20px;
+        }
+        
+        .lbl {
+            margin-left: 50px;
+        }
+        
+        .lbl2 {
+            margin-left: 50px;
+        }
+        
+        .lbl3 {
+            margin-left: 65px;
+        }
+        
+        .lbl4 {
+            margin-left: 55px;
+        }
+        
+        .boton {
+            font-size: 15px;
+            background-color: rgba(255, 255, 255, 0);
+            margin-left: 40px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border-color: rgba(255, 4, 4, 0.603);
+            width: 120px;
+        }
+        
+        .boton2 {
+            font-size: 15px;
+            background-color: rgba(255, 255, 255, 0);
+            margin-left: 40px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border-color: rgba(4, 21, 255, 0.603);
+            width: 120px;
+        }
+        
+        .boton3 {
+            font-size: 15px;
+            background-color: rgba(255, 255, 255, 0);
+            margin-left: 40px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border-color: rgb(255, 238, 4);
+            width: 120px;
+        }
+        
+        .boton4 {
+            font-size: 15px;
+            background-color: rgba(255, 255, 255, 0);
+            margin-left: 40px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border-color: rgba(3, 3, 3, 0.603);
+            width: 120px;
+        }
+        
+        form {
+            display: flex;
+            align-items: center;
+            justify-content: left;
+        }
+        
+        .resultado {
+            margin-left: 550px;
+            margin-top: 100px;
+        }
